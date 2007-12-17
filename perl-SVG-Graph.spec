@@ -19,7 +19,6 @@ Buildrequires:	perl(Statistics::Descriptive)
 Buildrequires:	perl(Math::Spline)
 Buildrequires:	perl(Tree::DAG_Node)
 Buildarch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 SVG::Graph is a suite of perl modules for plotting data. SVG::Graph currently
